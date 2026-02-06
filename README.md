@@ -231,6 +231,39 @@
 
 ---
 
+### Part 7: 실전 도구 가이드 — 플러그인과 특화 도구
+
+#### Chapter 20. AI CLI 플러그인과 확장 도구
+- **키워드**: superclaude, opencode, Gemini CLI, aider, CLAUDE.md, MCP Server
+- Claude Code 생태계와 CLAUDE.md 활용법
+- superclaude — Claude Code 강화 플러그인
+  - 설치 및 설정
+  - 슬래시 커맨드 (/plan, /review, /refactor, /test)
+  - Best Practices
+- opencode — 범용 AI 코딩 CLI (다중 모델 지원)
+- Gemini CLI와 플러그인 생태계
+- aider — Git 중심 AI 페어 프로그래밍
+- MCP 서버 활용하기 (Sequential Thinking, Filesystem, GitHub)
+- CLI 도구 비교 및 선택 가이드
+
+#### Chapter 21. 특화된 AI 도구 — Kilo Code, Bezi, Unity AI
+- **키워드**: Kilo Code, Bezi, Unity Muse, Unity Sentis, ML-Agents
+- Kilo Code — VS Code 네이티브 AI 코딩
+  - 핵심 기능 (AI Chat, AI Edit, Agent Mode)
+  - 설치 및 설정
+  - Use Cases와 Best Practices
+- Bezi — AI 기반 3D 디자인
+  - 3D/XR 인터페이스 디자인
+  - AI 기능 (텍스트→3D, 스타일 트랜스퍼)
+  - Vision Pro, Quest 앱 프로토타이핑
+- Unity AI — 게임 개발자를 위한 AI 도구
+  - Unity Muse: 코드/텍스처/스프라이트 생성
+  - Unity Sentis: 게임 내 AI 모델 실행
+  - ML-Agents: 강화학습 에이전트 훈련
+  - Use Cases (NPC AI, 동적 난이도, 프로시저럴 콘텐츠)
+
+---
+
 ### 부록
 
 #### Appendix A. 용어 사전 (Glossary)
@@ -271,7 +304,10 @@
     │                   AI 개발론, LLMOps
     ▼
 [Part 6: 프론티어]      지금 벌어지고 있는 일
-                        멀티모달, 추론 모델, 트렌드
+    │                   멀티모달, 추론 모델, 트렌드
+    ▼
+[Part 7: 실전 도구]     플러그인과 특화 도구
+                        superclaude, Kilo Code, Bezi, Unity AI
 ```
 
 ---
