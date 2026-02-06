@@ -262,6 +262,27 @@
   - ML-Agents: 강화학습 에이전트 훈련
   - Use Cases (NPC AI, 동적 난이도, 프로시저럴 콘텐츠)
 
+#### Chapter 22. Spec-Driven Development와 Agent-First IDE
+- **키워드**: Spec-Driven Development, Agent-First, GitHub Spec Kit, Cursor Rules, Google Antigravity, Artifacts
+- Vibe Coding의 한계와 대안
+- Spec-Driven Development (SDD)
+  - 4단계 워크플로우: Specify → Plan → Tasks → Implement
+  - 명세 작성 가이드
+- GitHub Spec Kit
+  - 설치 및 사용법
+  - spec-kit init, specify, plan, tasks, implement
+- Cursor Rules 시스템
+  - .cursor/rules 구조와 작성법
+  - 조건부 Rules (globs, alwaysApply)
+  - Agent Mode vs Ask Mode
+- Google Antigravity
+  - Editor View vs Manager View
+  - Artifacts 시스템
+  - 비동기 멀티 에이전트 실행
+- Kilo Code의 Spec 기능
+- 도구 비교 및 선택 가이드
+- 실전 워크플로우와 Best Practices
+
 ---
 
 ### 부록
@@ -308,6 +329,7 @@
     ▼
 [Part 7: 실전 도구]     플러그인과 특화 도구
                         superclaude, Kilo Code, Bezi, Unity AI
+                        Spec-Driven Dev, Cursor Rules, Antigravity
 ```
 
 ---
